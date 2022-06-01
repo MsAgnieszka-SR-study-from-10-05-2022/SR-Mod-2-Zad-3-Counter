@@ -1,6 +1,6 @@
 # Module 2 Project 3 - Timer
 
-## This project shows how many seconds gone since we'd run the app.
+## This project shows how many seconds gone since we'd run the app. I'd created two Counters - the first one as a function component and the second one as a class component.
 
 -------------------------
 
